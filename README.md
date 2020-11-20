@@ -9,7 +9,7 @@ The project is still under development and in the future the code will be combin
 
 ### Project Descriptions
 
-The project is divided in four parts:
+The project is divided in five parts:
 
  1. Exploratory Data Analysis
  
